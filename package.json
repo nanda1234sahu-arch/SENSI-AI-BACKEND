@@ -1,0 +1,15 @@
+{
+  "name": "sensi-ai-fal-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter backend for the SENSI AI Android app using fal.ai",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@fal-ai/client": "^1.6.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
